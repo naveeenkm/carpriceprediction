@@ -70,7 +70,7 @@ cars = {
     
    },
      "Renault": {
-        "image": "carprice/car photo/renault.jpeg",
+        "image": "carprice/car photo/Renault.jpeg",
         "info": "Mileage: 17 kmpl\n\nFeatures: Stylish design, fuel-efficient engines, affordable\n\nDuration: 1 years",
         "url":"https://www.renault.co.in/",
         "instagram": "https://www.instagram.com/RenaultIndia/",
@@ -78,7 +78,7 @@ cars = {
     
    },
      "Jeep": {
-        "image": "carprice/car photo/jeep.jpeg",
+        "image": "carprice/car photo/Jeep.jpeg",
         "info": "Mileage: 10 kmpl\n\nFeatures: Off-road prowess, rugged design, powerful engines\n\nDuration: 5 years",
         "url":"https://www.jeep-india.com/",
         "instagram": "https://www.instagram.com/jeep/",
