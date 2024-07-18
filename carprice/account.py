@@ -9,7 +9,7 @@ from main import MultiApp
 
 # Firebase setup
 if not firebase_admin._apps:
-    cert = credentials.Certificate("car-price-prediction-9f2c1-8f2cda31f055.json")
+    cert = credentials.Certificate("carprice/car-price-prediction-9f2c1-8f2cda31f055.json")
     firebase_admin.initialize_app(cert)
 st.session_state.logged_in = False
 key=st.session_state.logged_in
