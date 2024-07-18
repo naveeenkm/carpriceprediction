@@ -6,7 +6,7 @@ cars = {
     
     
     "Mercedes": {
-        "image": "car photo\mercedes.jpeg",
+        "image": "carprice/car photo/mercedes.jpeg",
         "info": "Mileage: 12 kmpl\n\nFeatures: Luxury, cutting-edge technology, superior comfort\n\nDuration: 5 years",
         "url":"https://www.mercedes-benz.co.in/",
         "instagram": "https://www.instagram.com/mercedesbenz/",
