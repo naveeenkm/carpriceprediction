@@ -6,7 +6,7 @@ from PIL import Image
 
 def car_details():
    p=0
-   model=pk.load(open('model.pkl','rb'))
+   model=pk.load(open('carprice/model.pkl','rb'))
    st.markdown(
     """
     <div style='text-align: center; background-color: #4CAF50; padding: 10px; border-radius: 10px;'>
