@@ -14,7 +14,7 @@ cars = {
     },
     "Ford": {
         
-        "image": "car photo\pford.jpeg",
+        "image": "carprice/car photo/pford.jpeg",
         "info": "Mileage: 12 kmpl\n\nFeatures: Strong performance, safety features, sporty design\n\nDuration: 6 years",
         "url":"https://www.ford.com/?hl=in",
         "instagram": "https://www.instagram.com/ford/",
@@ -22,7 +22,7 @@ cars = {
     
     },
     "Toyota": {
-        "image": "car photo\Toyota.jpeg",
+        "image": "carprice/car photo/Toyota.jpeg",
         "info": "Mileage: 14 kmpl\n\nFeatures: Durability, excellent resale value, hybrid technology\n\nDuration: 4 years",
         "url":"https://www.toyotabharat.com/",
         "instagram": "https://www.instagram.com/toyota.india/",
@@ -30,7 +30,7 @@ cars = {
     
    },
      "Mahindra": {
-        "image": "car photo\Mahindra.jpeg",
+        "image": "carprice/car photo/Mahindra.jpeg",
         "info": "Mileage: 11 kmpl\n\nFeatures: Rugged build, off-road capability, spacious interiors\n\nDuration: 7 years",
         "url":"https://auto.mahindra.com/",
         "instagram": "https://www.instagram.com/mahindra_auto/",
@@ -38,7 +38,7 @@ cars = {
     
    },
      "Audi": {
-        "image": "car photo\Audi.jpeg",
+        "image": "carprice/car photo/Audi.jpeg",
         "info": "Mileage: 13 kmpl\n\nFeatures: Quattro all-wheel drive, luxury interiors, advanced tech\n\nDuration: 3 years",
         "url":"https://www.audi.in/in/web/en.html",
         "instagram": "https://www.instagram.com/audiin/",
@@ -46,7 +46,7 @@ cars = {
     
    },
      "BMW": {
-        "image": "car photo\BMW.jpeg",
+        "image": "carprice/car photo/BMW.jpeg",
         "info": "Mileage: 14 kmpl\n\nFeatures: Performance-oriented, driver-focused, luxury\n\nDuration: 2 years",
         "url":"https://www.bmw.in/en/index.html",
         "instagram": "https://www.instagram.com/bmw/",
@@ -54,7 +54,7 @@ cars = {
     
    },
      "Jaguar": {
-        "image": "car photo\Jaguar.jpeg",
+        "image": "carprice/car photo/Jaguar.jpeg",
         "info": "Mileage: 12 kmpl\n\nFeatures: British luxury, sporty performance, elegant design\n\nDuration: 4 years",
         "url":"https://www.jaguar.in/index.html",
         "instagram": "https://www.instagram.com/jaguar/",
@@ -62,7 +62,7 @@ cars = {
     
    },
      "Skoda": {
-        "image": "car photo\skoda.jpeg",
+        "image": "carprice/car photo/skoda.jpeg",
         "info": "Mileage: 13 kmpl\n\nFeatures: European engineering, robust build quality, premium feel\n\nDuration: 6 years",
         "url":"https://www.skoda-auto.co.in/models/kushaq/kushaq",
         "instagram": "https://www.instagram.com/SkodaIndia/",
@@ -70,7 +70,7 @@ cars = {
     
    },
      "Renault": {
-        "image": "car photo\Renault.jpeg",
+        "image": "carprice/car photo/Renault.jpeg",
         "info": "Mileage: 17 kmpl\n\nFeatures: Stylish design, fuel-efficient engines, affordable\n\nDuration: 1 years",
         "url":"https://www.renault.co.in/",
         "instagram": "https://www.instagram.com/RenaultIndia/",
@@ -78,7 +78,7 @@ cars = {
     
    },
      "Jeep": {
-        "image": "car photo\Jeep.jpeg",
+        "image": "carprice/car photo/Jeep.jpeg",
         "info": "Mileage: 10 kmpl\n\nFeatures: Off-road prowess, rugged design, powerful engines\n\nDuration: 5 years",
         "url":"https://www.jeep-india.com/",
         "instagram": "https://www.instagram.com/jeep/",
@@ -86,7 +86,7 @@ cars = {
     
    },
      "Mitsubish": {
-        "image": "car photo\Mitsubish.jpeg",
+        "image": "carprice/car photo/Mitsubish.jpeg",
         "info": "Mileage: 11 kmpl\n\nFeatures: Robust build quality, off-road capability, reliable\n\nDuration: 7 years",
         "url":"https://www.mitsubishicars.com/",
         "instagram": "https://www.instagram.com/MitsubishiMotorsOfficial/",
@@ -94,7 +94,7 @@ cars = {
     
    },
      "Nissan": {
-        "image": "car photo\pNissan.jpeg",
+        "image": "carprice/car photo/pNissan.jpeg",
         "info": "Mileage: 16 kmpl\n\nFeatures: Innovative technology, reliability, efficient performance\n\nDuration: 6 years",
         "url":"https://www.nissan.in/",
         "instagram": "https://www.instagram.com/Nissan_India/",
@@ -102,7 +102,7 @@ cars = {
     
    },
      "Maruti": {
-        "image": "car photo\maruti.jpeg",
+        "image": "carprice/car photo/maruti.jpeg",
         "info":"""
           **Mileage:** 15 kmpl  
             **Features:**  
@@ -120,14 +120,14 @@ cars = {
         
     },
     "Honda": {
-        "image": "car photo\honda.jpeg",
+        "image": "carprice/car photo/honda.jpeg",
         "info": "Mileage: 16 kmpl\n\nFeatures: Reliable, smooth engine performance, high resale value\n\nDuration: 3 years",
         "url":"https://www.hondacarindia.com/",
         "instagram": "https://www.instagram.com/hondacarindia/",
         "facebook": "https://www.facebook.com/HondaCarIndia/"
     },
     "Hyundi": {
-        "image": "car photo\hyundai.jpeg",
+        "image": "carprice/car photo/hyundai.jpeg",
         "info": "Mileage: 14 kmpl\n\nFeatures: Modern design, feature-rich interiors, strong warranty\n\nDuration: 4 years",
         "url":"https://www.hyundai.com/in/en",
         "instagram": "https://www.instagram.com/hyundaiindia/",
