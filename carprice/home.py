@@ -86,7 +86,7 @@ cars = {
     
    },
      "Mitsubish": {
-        "image": "carprice/car photo/mitsubish.jpeg",
+        "image": "carprice/car photo/Mitsubish.jpeg",
         "info": "Mileage: 11 kmpl\n\nFeatures: Robust build quality, off-road capability, reliable\n\nDuration: 7 years",
         "url":"https://www.mitsubishicars.com/",
         "instagram": "https://www.instagram.com/MitsubishiMotorsOfficial/",
