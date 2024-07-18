@@ -38,7 +38,7 @@ cars = {
     
    },
      "Audi": {
-        "image": "carprice/car photo/mudi.jpeg",
+        "image": "carprice/car photo/audi.jpeg",
         "info": "Mileage: 13 kmpl\n\nFeatures: Quattro all-wheel drive, luxury interiors, advanced tech\n\nDuration: 3 years",
         "url":"https://www.audi.in/in/web/en.html",
         "instagram": "https://www.instagram.com/audiin/",
