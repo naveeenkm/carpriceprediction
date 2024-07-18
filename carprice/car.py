@@ -16,7 +16,7 @@ def car_details():
     unsafe_allow_html=True
 )
    
-   cars_data=pd.read_csv("Cardetails.csv")
+   cars_data=pd.read_csv("carprice/Cardetails.csv")
    
    def get_brand_name(car_name):
      car_name=car_name.split(' ')[0]
