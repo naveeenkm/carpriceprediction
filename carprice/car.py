@@ -35,7 +35,7 @@ def car_details():
    max_power=st.slider("Max Power ",0,200)
    seats=st.slider("Number of Seats ",5,10)
    try:
-       car_image = Image.open(f'car_images/{name}.jpg')
+       car_image = Image.open(f'carprice/car_images/{name}.jpg')
        st.image(car_image, caption=f'{name} car', use_column_width=True)
    except FileNotFoundError:
        st.write(f"Image for {name} not found.")
