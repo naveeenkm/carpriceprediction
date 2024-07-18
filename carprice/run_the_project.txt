@@ -1,0 +1,6 @@
+1. Change the powershell to cmd
+2.activate the environment file env 
+  by giving    
+        env\Scripts\activate
+3. run file by   
+      streamlit run main.py

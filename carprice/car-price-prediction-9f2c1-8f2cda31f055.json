@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "car-price-prediction-9f2c1",
+  "private_key_id": "8f2cda31f055b5e5053af1f6fd72abc1eba81113",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmf0qOCmdkxfcy\n2xCd+UmaYPNK2aAv3NzHRu9/bJ41Ld5BFBlAslh+6QSC0nu+DbvPUM3Qf6HeFfka\niFOolUfhZkT3eta4YAJ0riZnUdZXtoVsJ9iX2wptnrovrlo5OYI5YHuashnLCWyn\nFV/RxnLZRZry+B6KZXKoLl0J9mdwiGGYYNIImifZ4axfp2UbQPlKvLw1fqlo+DAX\n2NXjevI4MHVeYNZsTl1BU8So+PCl+YBWvXXoVRt9VTrO0GkgubFY0ncaoT0SuxLs\nbbe+C4KclvlZCCSEE7CbEaxDyv4L7yRJ4gJuQ+I9H0kEJ/nW0n0YDds3i6n/iLq9\naYyTqIDXAgMBAAECggEAKPoqQ/Q/i1/SYZ0maB9AYYyo0/66hqfKLDdFLq8dtTCR\nWZp8Hs9WAkHkxmkrDI+eeu3PmSiHm1bmsTvZO5hGbiDjU+fnsmGHLj0joKyg4XkW\nYTL4Q47yXKiiSwXBDnlV2GN5tffBtCHZyh53qXCRTGUedeF8dHgymQmdCr9ehley\nNlFIjgOplz3PKzc3lBhu5IqTlavElrqqBHkydhSr48d8mYF6gQf1+ip+WATOKWtN\nWSI18RV3ZzwPwK9I7kd0TGaAFQI6K5lr9WDl9gVK0JKWK/iei/G6V2dbte50f8J8\neMsCBmz1p8UMhFGU/gbQj7aUSPDc5nlsNOpxUqAFkQKBgQD4C5K8qGreZABVu9IA\nAKZcfy2Ndq6WZhe16RKC73EhLxM7KW8NV/CDp5fF1M7+bUJkydF8+XpV4cEB2L4u\nHpIHh9ZlUQIF5+++B89md5SIh1JJnHlk5cHcfwhbrWbR0VOpVgvRM3OcEbyPJegf\nQjOfy2TlMxHXG+Jnsy8srNEEPwKBgQDt46afuqmBg5qqkugIMqnW70ELzcpKMeRk\n2DLpsxXKyRm0FnHzNhseqCjsVrhpOAvAEeh/xVyeLIU81XxBbxXgAN3prUVSl60h\nG8tPNi17opXyJZFwkktzRkB8IVzj9QVtCbBLQek2APao4B1qkvR0swxR8DxvvheC\n0okpimV9aQKBgQCFzfBtFsj3iKhplzT0TWVwtiZDjoclmJMnzT/wI+w6A2PzYSmH\n4C1dR9XmoSK8OwI6zmfUa9vjYjG0plAJHvKVX2B3LRjTSMeaEip+UvlsINtx3Bfc\nJtjJ8jj3A3ZYrvvbeBBN3Nx7j1HRQpiR7CtfAuA9h6wTBva+C/nhtqPWDwKBgDWB\n8Bebb8cO5/oYAxLc+nC67gGOr0KTCFFag9EnE+7B3wMvzT+sWttBbbsDIoWgMpxo\nKsiahuOZFfsB9ent55iz+TY3YBFcxndc/hT6Fa7qehm2M4mDjm8GTTjedDteAHNv\nK3UyBRe9jb2cc2FmXo/lOg8wHxfvRPCLFIkAdSWJAoGBAIVMCJvMqkezXRO1Hq3v\nCLZMEcqkrQC9AaHQhLNEXSGdeEBhDhla08UWnqkTaA4wHRk3nqxHtsHvxVwLaRCq\nEdVWj+j73GtOtPIwSLzfMNY8PQ7gybotOVcK/dbIPp5bvHfgm6G/FTr/szq8u8gT\n9IYAywOU6jF5OqpxI3OSHiTy\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v4o3m@car-price-prediction-9f2c1.iam.gserviceaccount.com",
+  "client_id": "104992213501337302443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v4o3m%40car-price-prediction-9f2c1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
