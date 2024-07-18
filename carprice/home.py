@@ -30,7 +30,7 @@ cars = {
     
    },
      "Mahindra": {
-        "image": "carprice/car photo/Mahindra.jpeg",
+        "image": "carprice/car photo/mahindra.jpeg",
         "info": "Mileage: 11 kmpl\n\nFeatures: Rugged build, off-road capability, spacious interiors\n\nDuration: 7 years",
         "url":"https://auto.mahindra.com/",
         "instagram": "https://www.instagram.com/mahindra_auto/",
@@ -38,7 +38,7 @@ cars = {
     
    },
      "Audi": {
-        "image": "carprice/car photo/Audi.jpeg",
+        "image": "carprice/car photo/mudi.jpeg",
         "info": "Mileage: 13 kmpl\n\nFeatures: Quattro all-wheel drive, luxury interiors, advanced tech\n\nDuration: 3 years",
         "url":"https://www.audi.in/in/web/en.html",
         "instagram": "https://www.instagram.com/audiin/",
@@ -54,7 +54,7 @@ cars = {
     
    },
      "Jaguar": {
-        "image": "carprice/car photo/Jaguar.jpeg",
+        "image": "carprice/car photo/jaguar.jpeg",
         "info": "Mileage: 12 kmpl\n\nFeatures: British luxury, sporty performance, elegant design\n\nDuration: 4 years",
         "url":"https://www.jaguar.in/index.html",
         "instagram": "https://www.instagram.com/jaguar/",
@@ -70,7 +70,7 @@ cars = {
     
    },
      "Renault": {
-        "image": "carprice/car photo/Renault.jpeg",
+        "image": "carprice/car photo/renault.jpeg",
         "info": "Mileage: 17 kmpl\n\nFeatures: Stylish design, fuel-efficient engines, affordable\n\nDuration: 1 years",
         "url":"https://www.renault.co.in/",
         "instagram": "https://www.instagram.com/RenaultIndia/",
@@ -78,7 +78,7 @@ cars = {
     
    },
      "Jeep": {
-        "image": "carprice/car photo/Jeep.jpeg",
+        "image": "carprice/car photo/jeep.jpeg",
         "info": "Mileage: 10 kmpl\n\nFeatures: Off-road prowess, rugged design, powerful engines\n\nDuration: 5 years",
         "url":"https://www.jeep-india.com/",
         "instagram": "https://www.instagram.com/jeep/",
@@ -86,7 +86,7 @@ cars = {
     
    },
      "Mitsubish": {
-        "image": "carprice/car photo/Mitsubish.jpeg",
+        "image": "carprice/car photo/mitsubish.jpeg",
         "info": "Mileage: 11 kmpl\n\nFeatures: Robust build quality, off-road capability, reliable\n\nDuration: 7 years",
         "url":"https://www.mitsubishicars.com/",
         "instagram": "https://www.instagram.com/MitsubishiMotorsOfficial/",
