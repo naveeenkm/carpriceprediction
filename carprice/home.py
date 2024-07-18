@@ -22,7 +22,7 @@ cars = {
     
     },
     "Toyota": {
-        "image": "carprice/car photo/Toyota.jpeg",
+        "image": "carprice/car photo/toyota.jpeg",
         "info": "Mileage: 14 kmpl\n\nFeatures: Durability, excellent resale value, hybrid technology\n\nDuration: 4 years",
         "url":"https://www.toyotabharat.com/",
         "instagram": "https://www.instagram.com/toyota.india/",
