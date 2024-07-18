@@ -7,8 +7,8 @@ from datetime import date
 
 # Initialize Firebase
 if not firebase_admin._apps:
-    cred = credentials.Certificate("car-price-prediction-9f2c1-8f2cda31f055.json")
-    firebase_admin.initialize_app(cred)
+    cert = credentials.Certificate("car-price-prediction-9f2c1-8f2cda31f055.json")
+    firebase_admin.initialize_app(cert)
 
 db = firestore.client()
 
