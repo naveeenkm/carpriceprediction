@@ -1,3 +1,3 @@
 # carpriceprediction
 
-website - https://predictyourcarprice.streamlit.app
+website - https://car-priceprediction.streamlit.app
