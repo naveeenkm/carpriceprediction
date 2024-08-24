@@ -222,7 +222,7 @@ def app():
         """
         <style>
         .stApp {
-            background-image: url('https://wallpapers.com/images/featured/1920-x-1080-car-4sdj5tojfx747aly.jpg');
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCwc0jSMX_14MIfpxB8d3h51JJpYAIxxFa1DqM3-axl9_3PpT4WMXArJKYjMgU7z4R6U&usqp=CAU');
             background-size: cover;
             background-size: 100% 100%;
             background-repeat: no-repeat;
